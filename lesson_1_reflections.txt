@@ -1,0 +1,6 @@
+Q.How can you use the commands git log and git diff to view the history of files?
+Ans-git log command gives review of the previous commits and by using the command git dff we can see difference between 2 commits.
+
+Q2.How might using version control make you more confident to make changes that could break something?
+Ans-We can go to previous version of our project without loosing the current version of the code.
+
